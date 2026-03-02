@@ -1,0 +1,16 @@
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: aliceblue;
+}
+
+tbody {
+    background-color: lightgoldenrodyellow;
+}
+
+td, th {
+    padding: 8px;
+}
