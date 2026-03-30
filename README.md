@@ -22,7 +22,7 @@ Neste repositório estão exercícios e projetos envolvendo:
 
 ## 🎯 Objetivo
 
-Organizar e acompanhar minha evolução no aprendizado de desenvolvimento web, registrando exercícios e práticas realizadas durante os estudos.
+Organizar e acompanhar minha evolução no aprendizado de desenvolvimento web, registrando exercícios e aprendizados realizados durante as aulas.
 
 ---
 
