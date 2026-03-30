@@ -1,0 +1,33 @@
+.paragrafo{
+    background-color: lightgreen;
+    margin: 10px;
+    display: inline-block;
+    width: 500px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between; /* distribui o espaço restante que é dividido uniformemente entre os itens */
+    align-items: flex-start; /* alinha os itens no inicio de um código */
+    height: 500px;
+    background-color:lightblue;
+    color: white;
+}
+
+.box2{
+    display: flex;
+    justify-content: space-around; /* distribui os itens com espaçamento igual ao redor de cada um */
+    align-items: center; /* centraliza os itens dentro de um código */
+    height: 500px;
+    background-color:lightskyblue;
+    color: white;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-evenly; /* distribui os elementos de forma totalmente uniforme */
+    align-items: flex-end; /* alinha os itens no final do código */
+    height: 500px;
+    background-color:lightsteelblue;
+    color: white;
+}
